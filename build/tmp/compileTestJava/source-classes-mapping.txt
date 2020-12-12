@@ -1,0 +1,19 @@
+InterfaceTest.java
+ InterfaceTest
+ InterfaceTest$A
+ InterfaceTest$B
+ InterfaceTest$ExampleOne
+ InterfaceTest$ExampleTwo
+ InterfaceTest$NonSingleton
+ InterfaceTest$WannabeSingleton
+InstanseTest.java
+ BindInstanceTest
+ BindInstanceTest$1
+ BindInstanceTest$AbstractExample
+ BindInstanceTest$Example
+ BindInstanceTest$MyInterface
+DependencyInjectionLibraryTest.java
+ InstanceProviderTest
+ InstanceProviderTest$Example
+ InstanceProviderTest$InstanceProvider
+ InstanceProviderTest$SingletonExample
